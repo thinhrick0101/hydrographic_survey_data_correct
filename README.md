@@ -1,6 +1,9 @@
 # Hydrographic Heading Correction Case Study
 
-![Walkthrough video](https://github.com/thinhrick0101/hydrographic_survey_data_correct/raw/main/reports/video.mp4)
+**Video walkthrough**
+
+- [Watch on GitHub (inline player)](https://github.com/thinhrick0101/hydrographic_survey_data_correct/blob/main/reports/video.mp4)
+- [Direct raw MP4 link](https://github.com/thinhrick0101/hydrographic_survey_data_correct/raw/main/reports/video.mp4)
 
 This repo documents how I reverse-engineered the Spaarnwoude trial CSVs (no headers), diagnosed the heading sign error, and rebuilt the cable track using a corrected heading. It combines data intuition, geometric reasoning, and visual comparisons of the “before” and “after” cable tracks.
 
@@ -149,4 +152,3 @@ Running `analysis.py` with the default settings also writes heading-corrected CC
 ### Notebook
 
 - `analysis.ipynb` is a lightweight entry point that reuses `analysis.py` and displays the saved figures.
-
