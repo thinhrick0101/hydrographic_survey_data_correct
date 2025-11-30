@@ -1,9 +1,7 @@
 # Hydrographic Heading Correction Case Study
 
-**Video walkthrough**
+[Click here to watch the walkthrough](https://drive.google.com/drive/folders/1IdXHYwgZNIm_U8y46f0zYe5PLjFvsze4?usp=sharing)
 
-- [Watch on GitHub (inline player)](https://github.com/thinhrick0101/hydrographic_survey_data_correct/blob/main/reports/video.mp4)
-- [Direct raw MP4 link](https://github.com/thinhrick0101/hydrographic_survey_data_correct/raw/main/reports/video.mp4)
 
 This repo documents how I reverse-engineered the Spaarnwoude trial CSVs (no headers), diagnosed the heading sign error, and rebuilt the cable track using a corrected heading. It combines data intuition, geometric reasoning, and visual comparisons of the “before” and “after” cable tracks.
 
